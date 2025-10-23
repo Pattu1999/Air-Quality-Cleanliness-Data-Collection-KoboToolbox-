@@ -13,6 +13,12 @@ Live Survey URL: https://ee.kobotoolbox.org/x/pdQMh9b0
 
 
 
+Deployment Step
+
+Server Deployment: Installed and configured the KoboToolbox server on a cloud platform, hosted survey forms, and shared the survey URL for real-time data submission.
+
+
+
 Features:
 
 Hosted KoboToolbox server accessible via public URL.
